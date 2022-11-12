@@ -1,8 +1,6 @@
 ### end_to_end_telecom_churn_analysis
 
 ### Software and tools requirements
- -Bostonhousepricing
- -Software and tools requirement
  -Github Account
  -VS Code IDE
  -Heroku Account
